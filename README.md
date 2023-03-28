@@ -2,10 +2,6 @@
   <a href="https://discord.com/users/573086481162305556"><img src="https://lanyard-profile-readme.vercel.app/api/573086481162305556" width=45%></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Janeqaxyz"><img src="https://img.shields.io/github/followers/addi00000?style=for-the-badge"></img></a>
-  <a href="https://github.com/Janeqaxyz"><img src="https://img.shields.io/github/stars/addi00000?style=for-the-badge"></img></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Janeqaxyz"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
